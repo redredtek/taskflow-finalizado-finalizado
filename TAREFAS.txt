@@ -1,0 +1,76 @@
+SPRINT 1
+
+Criação do Controller - Otavio
+
+Criar DER - Henrique
+
+Criar SQL - Otavio
+
+Código da view LoginUsuario - Henrique
+
+Wireframe Mainframe - Gabriel
+
+Conectar JDBC - Vitor
+
+Classes no modelo - Vitor
+
+Wireframe Tela cad tarefas - Bruno
+
+Adição de criptografia de senha - Vitor
+
+Código da view CadastroUsuario - Vitor
+
+Wireframe Tela login usu - Bruno
+
+Wireframe tela cad usu - Bruno
+
+Wireframe Dashboard - Gabriel
+
+Readme - Arthur
+
+SPRINT 2
+
+Exportar tarefas em txt - Otavio
+
+Criação de uma logo - Gabriel 
+
+Código da view LoginUsuario - Henrique
+
+Atualização dos visuais para mockup - Gabriel
+
+Validação de campos - Arthur
+
+update visual - Bruno
+
+Relatório - Henrique
+
+Filtro por status - Vitor
+
+CRUD completo - Vitor
+
+Criação de mockups - Bruno
+
+Arrumar GitHub - Arthur
+
+Finalização de mockups - Bruno
+
+Documentação - Arthur
+
+Testes ajustes - Henrique
+
+SPRINT 3
+
+Ajuste de layout
+
+Revisão cruzada
+
+Finalização
+
+Preparar apresentação
+
+
+
+
+
+
+
